@@ -5386,3 +5386,619 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:06:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:06:48] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:06:48] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:06:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:08:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:08:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:08:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:08:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:11:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:11:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:11:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:11:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:14:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:14:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:14:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:14:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:15:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:15:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:15:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:15:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:16:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:16:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:16:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:16:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:28:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:28:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:28:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:28:04] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:29:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:29:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:29:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'commentHead' is not defined
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:29:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:30:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:30:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:30:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:30:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:34:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:34:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:34:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Incoming markup is of an invalid type: <Response [529]>. Markup must be a string, a bytestring, or an open filehandle.
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:34:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:35:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:35:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:35:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Incoming markup is of an invalid type: <Response [529]>. Markup must be a string, a bytestring, or an open filehandle.
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:36:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:38:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:38:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 15:38:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-03 15:54:03,847 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-04-03 15:54:03,848 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-04-03 15:54:03,850 INFO werkzeug  * Restarting with stat
+2025-04-03 15:54:04,620 WARNING werkzeug  * Debugger is active!
+2025-04-03 15:54:04,630 INFO werkzeug  * Debugger PIN: 265-284-993
+2025-04-03 15:55:45,732 INFO werkzeug  * Detected change in 'C:\\Users\\HP\\PycharmProjects\\DataScienceMasters\\Python_Project\\Web_Scrapping\\review-scrapper-aws-main\\app.py', reloading
+2025-04-03 15:55:45,843 INFO werkzeug  * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:55:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:55:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:55:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:58:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:58:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:58:36] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:59:02] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 16:59:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:01:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:01:16] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:01:16] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:01:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:02:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:02:15] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:02:15] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 17:02:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'bijaya mohanty', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just go for it.Amazing one.Beautiful camera with super fast processorREAD MORE'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Using this Iphone 15 from 1month and it has best CameraREAD MORE'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on  iPhone 15.READ MORE'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving ItREAD MORE'}, {'Product': 'iphone15', 'Name': 'Akshay Meena', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'So beautiful, so elegant, just a vowww\U0001f60d\u2764\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618READ MORE'}, {'Product': 'iphone15', 'Name': 'Raj Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'for me its 10 out of 10\u2728READ MORE'}, {'Product': 'iphone15', 'Name': 'Rahul Shedge', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Totally happy!Camera 5Battery 5 Display 5Design 5READ MORE'}, {'Product': 'iphone15', 'Name': 'Rishabh  Jha', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome \U0001f525\U0001f525\u263a\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great!READ MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great!READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 16:59:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'vivoT3Ultra', 'Name': 'Pappu Kumar Kaushal', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'In Hand Feel superb.Camera, Performance,Look. Every thing is awesome.\U0001f60a But Battery Backup is Average.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Junaid Iqbal', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Best all round phone at this price.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'prakash buchade', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'So far I liked it.No heating issueBattery backup is goodDesign is good.Charger in the box.Camera is awesomeREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Gaurav Pandey', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good for gamingREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Siddharth Singh', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'The mobile is smooth to use and the gaming performance is dynamic. So, recommended for purchase. At starting the battery was draining but after a few days it is giving a good battery backup.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'some random camera shots Battery 5/5Performance 4/5Display 5/5Camera 3/5In hand feel 5/5No heating issueValue for money, go for itREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Aditya Mishra', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Performance is good, camera is decent,Feel in hand is amazingOverall best phone at this price segment...Just to for it\U0001f44d\U0001f44dREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Tapas Acharya', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera is superb plus for a normal user like me this phone is more than enough. My opinion : Go for this device if your requirements are performance with a great camera. Find the sample picsREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Sumit  Patel ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'So Amazing Vivo T3 Ultra Best Camera And Performance\u263a\ufe0f\U0001f60d\U0001f44d\U0001f44dREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Lucky Gupta', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Every thing is best battery drain problemREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Lucky Gupta', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Every thing is best battery drain problemREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:02:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:02:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:02:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'vivoT3Ultra', 'Name': 'Pappu Kumar Kaushal', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'In Hand Feel superb.Camera, Performance,Look. Every thing is awesome.\U0001f60a But Battery Backup is Average.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Junaid Iqbal', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Best all round phone at this price.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'prakash buchade', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'So far I liked it.No heating issueBattery backup is goodDesign is good.Charger in the box.Camera is awesomeREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Gaurav Pandey', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good for gamingREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Siddharth Singh', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'The mobile is smooth to use and the gaming performance is dynamic. So, recommended for purchase. At starting the battery was draining but after a few days it is giving a good battery backup.READ MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'some random camera shots Battery 5/5Performance 4/5Display 5/5Camera 3/5In hand feel 5/5No heating issueValue for money, go for itREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Aditya Mishra', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Performance is good, camera is decent,Feel in hand is amazingOverall best phone at this price segment...Just to for it\U0001f44d\U0001f44dREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Tapas Acharya', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera is superb plus for a normal user like me this phone is more than enough. My opinion : Go for this device if your requirements are performance with a great camera. Find the sample picsREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Sumit  Patel ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'So Amazing Vivo T3 Ultra Best Camera And Performance\u263a\ufe0f\U0001f60d\U0001f44d\U0001f44dREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Lucky Gupta', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Every thing is best battery drain problemREAD MORE'}, {'Product': 'vivoT3Ultra', 'Name': 'Lucky Gupta', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Every thing is best battery drain problemREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:03:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:cannot access local variable 'custComment' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:04:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:15:27] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:16:15] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:16:34] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Xiaomi14CIVI', 'Name': 'Shailesh Pujari', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'The phone is a complete package for a good camera, high speed processor, handy easy to carry. The only regret not got free watch as committed by #flipkart #Xiaomi... Feeling cheated for pre-order promise. This way American companies are worth on fulfilling commitmentsREAD MORE'}, {'Product': 'Xiaomi14CIVI', 'Name': 'Vivek Nandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': "Great Product. Value for money. But I didn't get my free Smart Watch till now after I pre order this mobileREAD MORE"}, {'Product': 'Xiaomi14CIVI', 'Name': 'Chandra Mohan Reddy', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': "Portraits are awesome at 50mm.Can take very good Videos with Cinematic mode.There are very good filters available for photos and videos. Display is vivid. Thanks to AMOLED. Performance is good even though it's SD 8s.Battery should do a day on full usage.Occasional Heat issues especially during camera usage and long single stretch usage.Operating temperature is max at 40 degrees only (officially). Practically it will be even less which is  Not suitable for Indian climate.Camera max zo...READ MORE"}, {'Product': 'Xiaomi14CIVI', 'Name': 'Vikas Bhor', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome Camera Smartphone.READ MORE'}, {'Product': 'Xiaomi14CIVI', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'It is as good as they say, my only complaint is that the phone gets warm quickly but it does not overheat or anything. It also cools down quickly.Overall it is a good product \U0001f44dREAD MORE'}, {'Product': 'Xiaomi14CIVI', 'Name': 'Babu Pothula', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': "A very good mobile with handy features, display, camera and performance but battery could have been more capacity..It's almost 15 days of usage..Pros:1. Battery performance is very good 5/52. Display 5/53. Camera 4.5/5Cons:1. Camera layout hangs some time 2. No official confirmation on ip68 etcREAD MORE"}, {'Product': 'Xiaomi14CIVI', 'Name': 'Srikalyan Chanumolu', 'Rating': '4', 'CommentHead': 'Good option if you are ok with HyperOS', 'Comment': 'Excellent balanced phone for the priceGood-ErganomicsDisplayCameraOverall spread and usabilityBad-Except for some additional miui bloatware which is commonAnd phone gets warm on load / chargingREAD MORE'}, {'Product': 'Xiaomi14CIVI', 'Name': 'akshay durafe', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': "Heating issue. Got heated even of 1 hr use. The camera quality is excellent. I haven't received a smart watch even ordered in the pre booking phase.READ MORE"}, {'Product': 'Xiaomi14CIVI', 'Name': 'Mohammed Ismail', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Switched from S24 ultra due to theft but i feel it is better then S24 ultra in terms of smoothness and day to day tasks !! Cameras are amazing too !! Leica filters are awesomeREAD MORE'}, {'Product': 'Xiaomi14CIVI', 'Name': 'SUSANTA MALLIK', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "Used this mobile for a week, and now I am comfortable about giving my impression. Let's go with Pro's - Good display, normal battery backup and amazing camera. Cons- Not a big fan of bloatware and little bit of heating. Still a solid mobile.READ MORE"}, {'Product': 'Xiaomi14CIVI', 'Name': 'SUSANTA MALLIK', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Used this mobile for a week, and now I am comfortable about giving my impression. Let's go with Pro's - Good display, normal battery backup and amazing camera. Cons- Not a big fan of bloatware and little bit of heating. Still a solid mobile.READ MORE"}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:17:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:17:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:17:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'BoultY1Pro', 'Name': 'Maanvi Goyal', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': "Everything is fine n earbuds are also gud but the main plblm I'm facing is about battery like when it's charging is charging full or not the case indicators are not understandable plzz help me if anyone is reading my comments \U0001f917 and ya must go for this product n putting beside the charging issue i loved the productREAD MORE"}, {'Product': 'BoultY1Pro', 'Name': 'Ramnivas  Yadav', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': "This product is very nice ,and i like bass and sound quality. it's worth for this price.its very comfortable , also battery backup is so good.I'm impress to captured and review this product. I request you to all please give a thumbs up.READ MORE"}, {'Product': 'BoultY1Pro', 'Name': 'MOHAMED USAMA', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': "This product is very super ,and i like bass and smooth sound. it's worth for this price.its very comfortable .and battery also super.Iam impress to captured and edit this product. please rating my picture. 1 to 10READ MORE"}, {'Product': 'BoultY1Pro', 'Name': 'MD.   Kaif', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'The best song quality berry MarchREAD MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Vikram', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': "Sound quality is good. In higher volume is slightly annoying. Bass effect is nice for this value it's awesome. Charging 4 to 5 days coming for mee sometimes 1week + based on usage.Big drawbackWhile in phone calls mic level is 30% out of 100.Bcoz they saying your voice is like talking inside a drum and from far away Another one disadvantage is adjusting volume through earbuds option is not available bcoz now a days technology improved and they given touch control. additionally volume c...READ MORE"}, {'Product': 'BoultY1Pro', 'Name': 'Alok Kumar', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'good product and  money not wasted \U0001f642 osmREAD MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Suman  Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Absolutely  sound  quality is good \U0001f44d \U0001f44c \U0001f60a \U0001f600 \U0001f604 \U0001f44dREAD MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Phani Kumar Reddy', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am using from last one weekThe sound quality is good and bass also is goodNoise cancellation is working wellREAD MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'ExcellentREAD MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Frangle John', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Best product at this price range:- Small box, easily fits in pocket- Stylish look- Awesome Bass, Best at this price- comfort fit, doesnt fall even if you dance- Small and cool to use- Battery, yet to discover- expecting better outcomeHighly recommended if you are a Bass lover...READ MORE'}, {'Product': 'BoultY1Pro', 'Name': 'Frangle John', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best product at this price range:- Small box, easily fits in pocket- Stylish look- Awesome Bass, Best at this price- comfort fit, doesnt fall even if you dance- Small and cool to use- Battery, yet to discover- expecting better outcomeHighly recommended if you are a Bass lover...READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:19:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:19:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:19:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:57:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:57:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:57:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:58:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'bijaya mohanty', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just go for it.Amazing one.Beautiful camera with super fast processorREAD MORE'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Using this Iphone 15 from 1month and it has best CameraREAD MORE'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on  iPhone 15.READ MORE'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving ItREAD MORE'}, {'Product': 'iphone15', 'Name': 'Akshay Meena', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'So beautiful, so elegant, just a vowww\U0001f60d\u2764\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618READ MORE'}, {'Product': 'iphone15', 'Name': 'Raj Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'for me its 10 out of 10\u2728READ MORE'}, {'Product': 'iphone15', 'Name': 'Rahul Shedge', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Totally happy!Camera 5Battery 5 Display 5Design 5READ MORE'}, {'Product': 'iphone15', 'Name': 'Rishabh  Jha', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome \U0001f525\U0001f525\u263a\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great!READ MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great!READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:58:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:58:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 17:58:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:32:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:32:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:32:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:32:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:33:07] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:33:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:33:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:33:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:34:14] "POST /review HTTP/1.1" 200 -
+INFO:root:[Errno 2] No such file or directory: 'WomenLayeredPinkMidi/CalfLengthDress.csv'
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:34:56] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's23', 'Name': 'ARYA vastrad', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Superb phone....READ MORE'}, {'Product': 's23', 'Name': 'Madhusudan  Mohanta ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'I like the product \U0001faf6\U0001f3fbREAD MORE'}, {'Product': 's23', 'Name': 'Nagesh', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Amazing camera and Good performance..best choiceREAD MORE'}, {'Product': 's23', 'Name': 'Pranshu  Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'From iphone 12 mini to this Best phoneREAD MORE'}, {'Product': 's23', 'Name': 'Rajesh S Hattaraki', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera and display quality is awesomeThere is no comparison in this segment.READ MORE'}, {'Product': 's23', 'Name': 'Prateep Mukherjee', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Upgraded from iPhone 12 mini to s23. Fulfilling my need very nicely. Good camera even  better than iPhone 12 mini. Better battery performance.   I am not a gamer so don't know about gaming experience.READ MORE"}, {'Product': 's23', 'Name': 'Dintea Zote', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Worth the wait, upgraded from Pixel 4a.READ MORE'}, {'Product': 's23', 'Name': 'Abhishek  Verma', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing camera, good feel in hand, good batteryREAD MORE'}, {'Product': 's23', 'Name': 'Rishabh ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing photos, elegant designREAD MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:35:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's23', 'Name': 'ARYA vastrad', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Superb phone....READ MORE'}, {'Product': 's23', 'Name': 'Madhusudan  Mohanta ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'I like the product \U0001faf6\U0001f3fbREAD MORE'}, {'Product': 's23', 'Name': 'Nagesh', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Amazing camera and Good performance..best choiceREAD MORE'}, {'Product': 's23', 'Name': 'Pranshu  Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'From iphone 12 mini to this Best phoneREAD MORE'}, {'Product': 's23', 'Name': 'Rajesh S Hattaraki', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera and display quality is awesomeThere is no comparison in this segment.READ MORE'}, {'Product': 's23', 'Name': 'Prateep Mukherjee', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Upgraded from iPhone 12 mini to s23. Fulfilling my need very nicely. Good camera even  better than iPhone 12 mini. Better battery performance.   I am not a gamer so don't know about gaming experience.READ MORE"}, {'Product': 's23', 'Name': 'Dintea Zote', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Worth the wait, upgraded from Pixel 4a.READ MORE'}, {'Product': 's23', 'Name': 'Abhishek  Verma', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing camera, good feel in hand, good batteryREAD MORE'}, {'Product': 's23', 'Name': 'Rishabh ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing photos, elegant designREAD MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:02] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's23', 'Name': 'ARYA vastrad', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Superb phone....READ MORE'}, {'Product': 's23', 'Name': 'Madhusudan  Mohanta ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'I like the product \U0001faf6\U0001f3fbREAD MORE'}, {'Product': 's23', 'Name': 'Nagesh', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Amazing camera and Good performance..best choiceREAD MORE'}, {'Product': 's23', 'Name': 'Pranshu  Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'From iphone 12 mini to this Best phoneREAD MORE'}, {'Product': 's23', 'Name': 'Rajesh S Hattaraki', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera and display quality is awesomeThere is no comparison in this segment.READ MORE'}, {'Product': 's23', 'Name': 'Prateep Mukherjee', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Upgraded from iPhone 12 mini to s23. Fulfilling my need very nicely. Good camera even  better than iPhone 12 mini. Better battery performance.   I am not a gamer so don't know about gaming experience.READ MORE"}, {'Product': 's23', 'Name': 'Dintea Zote', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Worth the wait, upgraded from Pixel 4a.READ MORE'}, {'Product': 's23', 'Name': 'Abhishek  Verma', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing camera, good feel in hand, good batteryREAD MORE'}, {'Product': 's23', 'Name': 'Rishabh ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing photos, elegant designREAD MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:24] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's23', 'Name': 'ARYA vastrad', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Superb phone....READ MORE'}, {'Product': 's23', 'Name': 'Madhusudan  Mohanta ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'I like the product \U0001faf6\U0001f3fbREAD MORE'}, {'Product': 's23', 'Name': 'Nagesh', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Amazing camera and Good performance..best choiceREAD MORE'}, {'Product': 's23', 'Name': 'Pranshu  Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'From iphone 12 mini to this Best phoneREAD MORE'}, {'Product': 's23', 'Name': 'Rajesh S Hattaraki', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Camera and display quality is awesomeThere is no comparison in this segment.READ MORE'}, {'Product': 's23', 'Name': 'Prateep Mukherjee', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Upgraded from iPhone 12 mini to s23. Fulfilling my need very nicely. Good camera even  better than iPhone 12 mini. Better battery performance.   I am not a gamer so don't know about gaming experience.READ MORE"}, {'Product': 's23', 'Name': 'Dintea Zote', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Worth the wait, upgraded from Pixel 4a.READ MORE'}, {'Product': 's23', 'Name': 'Abhishek  Verma', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing camera, good feel in hand, good batteryREAD MORE'}, {'Product': 's23', 'Name': 'Rishabh ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing photos, elegant designREAD MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}, {'Product': 's23', 'Name': 'Amit Shah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing phone by Samsung, except battery life it gives absolute flagship performance and I loved it...READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:42] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:37:42] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:38:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:38:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:38:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 18:39:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:03:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:03:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:03:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:03:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'bijaya mohanty', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just go for it.Amazing one.Beautiful camera with super fast processorREAD MORE'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Using this Iphone 15 from 1month and it has best CameraREAD MORE'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on  iPhone 15.READ MORE'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving ItREAD MORE'}, {'Product': 'iphone15', 'Name': 'Akshay Meena', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'So beautiful, so elegant, just a vowww\U0001f60d\u2764\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618READ MORE'}, {'Product': 'iphone15', 'Name': 'Raj Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'for me its 10 out of 10\u2728READ MORE'}, {'Product': 'iphone15', 'Name': 'Rahul Shedge', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Totally happy!Camera 5Battery 5 Display 5Design 5READ MORE'}, {'Product': 'iphone15', 'Name': 'Rishabh  Jha', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome \U0001f525\U0001f525\u263a\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great!READ MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great!READ MORE'}]
+INFO:root:SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67efedce9cf2e7361a25428c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:04:20] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:04:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:06:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:06:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:06:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 529: Server Error
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:06:21] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67efee6d5bfa10db9dddb98a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:06:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:07:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:07:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:07:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67efee9e5bfa10db9dddb996, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:07:48] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67efeea55bfa10db9dddb9a2, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:07:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:08:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:09:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:11:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:11:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:11:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'bijaya mohanty', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just go for it.Amazing one.Beautiful camera with super fast processorREAD MORE'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Using this Iphone 15 from 1month and it has best CameraREAD MORE'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on  iPhone 15.READ MORE'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving ItREAD MORE'}, {'Product': 'iphone15', 'Name': 'Akshay Meena', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'So beautiful, so elegant, just a vowww\U0001f60d\u2764\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618READ MORE'}, {'Product': 'iphone15', 'Name': 'Raj Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'for me its 10 out of 10\u2728READ MORE'}, {'Product': 'iphone15', 'Name': 'Rahul Shedge', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Totally happy!Camera 5Battery 5 Display 5Design 5READ MORE'}, {'Product': 'iphone15', 'Name': 'Rishabh  Jha', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome \U0001f525\U0001f525\u263a\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great!READ MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great!READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:12:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:12:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:12:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.157.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:56:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:56:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:56:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67effa510a912411080de900, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:57:43] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67effac00a912411080de90c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 20:59:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 12:52:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 12:52:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 12:52:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 12:52:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f22bd5a76f2554ec070680, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-00.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-01.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-olocsd2-shard-00-02.wjc84vy.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 12:53:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.205.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.205.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:38:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'bijaya mohanty', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just go for it.Amazing one.Beautiful camera with super fast processorREAD MORE'}, {'Product': 'iphone15', 'Name': 'Akshay Meena', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'So beautiful, so elegant, just a vowww\U0001f60d\u2764\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving ItREAD MORE'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on  iPhone 15.READ MORE'}, {'Product': 'iphone15', 'Name': 'Raj Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'for me its 10 out of 10\u2728READ MORE'}, {'Product': 'iphone15', 'Name': 'Rahul Shedge', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Totally happy!Camera 5Battery 5 Display 5Design 5READ MORE'}, {'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618READ MORE'}, {'Product': 'iphone15', 'Name': 'Rishabh  Jha', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome \U0001f525\U0001f525\u263a\ufe0fREAD MORE'}, {'Product': 'iphone15', 'Name': 'Sandip Mandal', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great!READ MORE'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phoneREAD MORE'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phoneREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15pro', 'Name': 'VISHAL KUMAR', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Superb quality. so smooth and excellent performance.Light weight.Excellent camera quality.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Md. Wasim', 'Rating': '4', 'CommentHead': 'Simply awesome', 'Comment': 'Go for it without any hesitation.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Fardeen Mansuri', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best performance ultimate camera and display \U0001f44cREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'PRASHANT ANSURYA', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Awesome CamraREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'I love this productMy 1st iPhone \U0001f970Thank you Flipkart \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Kamaljeet Redhu', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good  product very nice phone go for it The white colour is best for meREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Asif Waquar', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Heating issue is just a rumour. Yes it heats up while gaming little bit as all devices heats up while gaming. So without any hesitation you can go on . The best phone I have ever used ;.Worth every penny design, display,camera,processor everything is perfectREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Mohit Goswami', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'White color love \u2764\ufe0fUpgrading from iPhone 14I love this product.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'RASMI', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I love this product \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:39:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.205.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15pro', 'Name': 'VISHAL KUMAR', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Superb quality. so smooth and excellent performance.Light weight.Excellent camera quality.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Md. Wasim', 'Rating': '4', 'CommentHead': 'Simply awesome', 'Comment': 'Go for it without any hesitation.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Fardeen Mansuri', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best performance ultimate camera and display \U0001f44cREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'PRASHANT ANSURYA', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Awesome CamraREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'I love this productMy 1st iPhone \U0001f970Thank you Flipkart \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Kamaljeet Redhu', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good  product very nice phone go for it The white colour is best for meREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Asif Waquar', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Heating issue is just a rumour. Yes it heats up while gaming little bit as all devices heats up while gaming. So without any hesitation you can go on . The best phone I have ever used ;.Worth every penny design, display,camera,processor everything is perfectREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Mohit Goswami', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'White color love \u2764\ufe0fUpgrading from iPhone 14I love this product.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'RASMI', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I love this product \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:56:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:56:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:56:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:56:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:56:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.205.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:58:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:58:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:58:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2025 22:58:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.205.148:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:22:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:22:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:22:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:22:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.READ MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}, {'Product': 'iphone11', 'Name': 'Rajendra Dubey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'first iphone from android.what can I say, iphone 11 says it all. earlier I used to abuse iphone users by saying show off, but after using it .. it’s completely worth it..p.s: there is still little pain in lower abdomen \U0001f61cREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:23:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:23:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:23:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15pro', 'Name': 'VISHAL KUMAR', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Superb quality. so smooth and excellent performance.Light weight.Excellent camera quality.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Md. Wasim', 'Rating': '4', 'CommentHead': 'Simply awesome', 'Comment': 'Go for it without any hesitation.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'Fardeen Mansuri', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best performance ultimate camera and display \U0001f44cREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'PRASHANT ANSURYA', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Awesome CamraREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'I love this productMy 1st iPhone \U0001f970Thank you Flipkart \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Kamaljeet Redhu', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good  product very nice phone go for it The white colour is best for meREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Asif Waquar', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Heating issue is just a rumour. Yes it heats up while gaming little bit as all devices heats up while gaming. So without any hesitation you can go on . The best phone I have ever used ;.Worth every penny design, display,camera,processor everything is perfectREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Mohit Goswami', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'White color love \u2764\ufe0fUpgrading from iPhone 14I love this product.READ MORE'}, {'Product': 'iphone15pro', 'Name': 'RASMI', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I love this product \u2764\ufe0fREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}, {'Product': 'iphone15pro', 'Name': 'Dinesh  Chhabriya ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Product is amazing but heats alot \U0001f525I just played BGMI at lowest specs and medium brightness I felt alot heating sensation at frame and a little at back panel. In normal use too it heats alot.Apple needs to work on itREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:24:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:24:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:24:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:28] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:28] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Cheap and best. Fine design.But sometimes it hang. However it is best at this price.READ MORE'}, {'Product': 'redmi', 'Name': 'Jishnu Cmk', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'GoodREAD MORE'}, {'Product': 'redmi', 'Name': 'RIS HAV', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very niceREAD MORE'}, {'Product': 'redmi', 'Name': 'raghvendra prasad  Pal', 'Rating': '4', 'CommentHead': 'Excellent', 'Comment': 'Awosome set Battery power fullBest backupREAD MORE'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Okay Lower rate but good product \U0001f609 Paysaosul.READ MORE'}, {'Product': 'redmi', 'Name': 'Antony Dhas', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'SuperREAD MORE'}, {'Product': 'redmi', 'Name': 'Abdul  Rehan ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice \U0001f642\U0001f642\U0001f642\U0001f642READ MORE'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': "Average phone as per it's price.READ MORE"}, {'Product': 'redmi', 'Name': 'Rishi Das', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Recently I buy Redmi phone for my mom, looking amazing, design really beautiful. Overall value for money. Colour and features really good. Thanks.READ MORE'}, {'Product': 'redmi', 'Name': 'Jude Thomas', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'It was amazing product.READ MORE'}, {'Product': 'redmi', 'Name': 'Jude Thomas', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'It was amazing product.READ MORE'}]
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2025 20:28:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
